@@ -1,5 +1,5 @@
 # 🛍️ Myntra Sales & Orders Analysis Dashboard 📊
-![Screenshot 2025-07-03 201333](https://github.com/user-attachments/assets/adb17367-7400-4dc8-b02c-54356b01c90c)
+![Screenshot 2025-07-03 201333](https://github.com/nehatayde/Myntra-Sales-Orders-Analysis-Dashboard/blob/main/Myntra%20SS.png)
 
 ## 📂 Project Scenario
 
